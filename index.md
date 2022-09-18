@@ -2,8 +2,7 @@
 
 ---
 
-### Category Name 1 
-
+### Week 1
 [Topik 1&2](Topik1&2.ipynb)
 
 ---
